@@ -5,3 +5,5 @@ Features:
 - Prevent overselling
 - High performance order processing
 - Scalable architecture
+
+Supports 10k+ concurrent requests
